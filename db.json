@@ -121,32 +121,5 @@
         "originalPrice": "3.5"
       }
     ],
-    "channelCat": [
-      {
-        "channelCatTitle": "床品件套被枕"
-      },
-      {
-        "channelCatTitle": "家具"
-      },
-      {
-        "channelCatTitle": "家饰"
-      }
-    ],
-    "channelList": [
-      {
-        "channelTitle": "居家",
-        "channelBanner": "img_category_banner_1.png",
-        "channelAlt": "相伴相眠 梦里重回纯真",
-        "channelProducts": [
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_6.png",
-            "productTitle": "95%白鹅绒羽绒被 升级款",
-            "productPrice": "260",
-            "originalPrice": "55"
-          }
-        ]
-      }
-    ]
   }
   
