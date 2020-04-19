@@ -9,137 +9,6 @@
             "submenuURL": "javascript:void(0)",
             "imgName": "img_category2.png",
             "submenuTitle": "餐具"
-          },
-          {
-            "submenuKey": "submenu2",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category1.png",
-            "submenuTitle": "锅具"
-          },
-          {
-            "submenuKey": "submenu3",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category3.png",
-            "submenuTitle": "水具杯壶"
-          },
-          {
-            "submenuKey": "submenu4",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category4.png",
-            "submenuTitle": "清洁保鲜"
-          },
-          {
-            "submenuKey": "submenu5",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category5.png",
-            "submenuTitle": "厨房配件"
-          },
-          {
-            "submenuKey": "submenu6",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category6.png",
-            "submenuTitle": "刀剪砧板"
-          }
-        ]
-      },
-      {
-        "menuTitle": "美妆",
-        "menuURL": "javascript:void(0)",
-        "submenuList": [
-          {
-            "submenuKey": "submenu7",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category1.png",
-            "submenuTitle": "食品"
-          },
-          {
-            "submenuKey": "submenu8",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category3.png",
-            "submenuTitle": "水具杯壶"
-          }
-        ]
-      },
-      {
-        "menuTitle": "服装",
-        "menuURL": "javascript:void(0)",
-        "submenuList": []
-      },
-      {
-        "menuTitle": "居家",
-        "menuURL": "javascript:void(0)",
-        "submenuList": [
-          {
-            "submenuKey": "submenu9",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category1.png",
-            "submenuTitle": "食品"
-          }
-        ]
-      },
-      {
-        "menuTitle": "母婴",
-        "menuURL": "javascript:void(0)",
-        "submenuList": [
-          {
-            "submenuKey": "submenu10",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category1.png",
-            "submenuTitle": "食品"
-          }
-        ]
-      },
-      {
-        "menuTitle": "户外",
-        "menuURL": "javascript:void(0)",
-        "submenuList": [
-          {
-            "submenuKey": "submenu11",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category1.png",
-            "submenuTitle": "食品"
-          }
-        ]
-      },
-      {
-        "menuTitle": "餐厨",
-        "menuURL": "javascript:void(0)",
-        "submenuList": [
-          {
-            "submenuKey": "submenu12",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category2.png",
-            "submenuTitle": "餐具"
-          },
-          {
-            "submenuKey": "submenu13",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category1.png",
-            "submenuTitle": "锅具"
-          },
-          {
-            "submenuKey": "submenu14",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category3.png",
-            "submenuTitle": "水具杯壶"
-          },
-          {
-            "submenuKey": "submenu15",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category4.png",
-            "submenuTitle": "清洁保鲜"
-          },
-          {
-            "submenuKey": "submenu16",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category5.png",
-            "submenuTitle": "厨房配件"
-          },
-          {
-            "submenuKey": "submenu17",
-            "submenuURL": "javascript:void(0)",
-            "imgName": "img_category6.png",
-            "submenuTitle": "刀剪砧板"
           }
         ]
       }
@@ -153,26 +22,6 @@
         "productStyle": "格伦琴键",
         "productQty": 5,
         "productPrice": "280",
-        "delURL": "javascript:void(0)"
-      },
-      {
-        "shoppingCartKey": "shoppingCart2",
-        "linkURL": "ProductDetail.html",
-        "imgName": "img_160_2.png",
-        "productTitle": "如肌肤般温暖丝滑，300根鹅毛粘在一起",
-        "productStyle": "格伦琴键s",
-        "productQty": 1,
-        "productPrice": "2330",
-        "delURL": "javascript:void(0)"
-      },
-      {
-        "shoppingCartKey": "shoppingCart3",
-        "linkURL": "ProductDetail.html",
-        "imgName": "img_160_3.png",
-        "productTitle": "陪你宅·萌宠抱枕",
-        "productStyle": "格伦琴键",
-        "productQty": 3,
-        "productPrice": "230",
         "delURL": "javascript:void(0)"
       },
       {
@@ -249,153 +98,6 @@
             "productPrice": "50"
           }
         ]
-      },
-      {
-        "categoryTitle": "纸品湿巾  家庭清洁",
-        "categoryURL": "javascript:void(0)",
-        "categoryProductList": []
-      },
-      {
-        "categoryTitle": "甜品鲜花  糕点",
-        "categoryURL": "javascript:void(0)",
-        "categoryProductList": [
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_22.png",
-            "productTitle": "甜品透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_23.png",
-            "productTitle": "糕点透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "50"
-          }
-        ]
-      },
-      {
-        "categoryTitle": "餐具  水具杯壶",
-        "categoryURL": "javascript:void(0)",
-        "categoryProductList": [
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_24.png",
-            "productTitle": "餐具透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_25.png",
-            "productTitle": "餐具透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "50"
-          }
-        ]
-      },
-      {
-        "categoryTitle": "新生儿服饰  小童服饰",
-        "categoryURL": "javascript:void(0)",
-        "categoryProductList": [
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_21.png",
-            "productTitle": "新生儿服饰透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "280"
-          }
-        ]
-      },
-      {
-        "categoryTitle": "文具  运动户外",
-        "categoryURL": "javascript:void(0)",
-        "categoryProductList": [
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_22.png",
-            "productTitle": "文具透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_23.png",
-            "productTitle": "文具透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "50"
-          }
-        ]
-      },
-      {
-        "categoryTitle": "行李箱  围巾件套",
-        "categoryURL": "javascript:void(0)",
-        "categoryProductList": [
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_8.png",
-            "productTitle": "行李电器透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_9.png",
-            "productTitle": "行李大电透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "50"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_14.png",
-            "productTitle": "行李电器透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_15.png",
-            "productTitle": "行李大电透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "50"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_2.png",
-            "productTitle": "行李电器透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_3.png",
-            "productTitle": "行李大电透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "50"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_4.png",
-            "productTitle": "行李电器透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_5.png",
-            "productTitle": "行李大电透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "50"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_6.png",
-            "productTitle": "行李电器透气保暖元绒棉花被",
-            "productInfo": "原创设计，现代时尚",
-            "productPrice": "180"
-          }
-        ]
       }
     ],
     "slideList": [
@@ -403,11 +105,6 @@
         "clickUrl": "#",
         "desc": "家居生活节",
         "image": "banner1.png"
-      },
-      {
-        "clickUrl": "#",
-        "desc": "轮播广告",
-        "image": "banner2.png"
       },
       {
         "clickUrl": "#",
@@ -422,34 +119,6 @@
         "productTitle": "95%白鹅绒羽绒被 升级款",
         "productPrice": "16",
         "originalPrice": "3.5"
-      },
-      {
-        "productURL": "ProductDetail.html",
-        "imgName": "img_160_2.png",
-        "productTitle": "北欧实木伸缩餐桌",
-        "productPrice": "3190",
-        "originalPrice": "650"
-      },
-      {
-        "productURL": "ProductDetail.html",
-        "imgName": "img_160_3.png",
-        "productTitle": "北欧实木衣帽架 升级款",
-        "productPrice": "280",
-        "originalPrice": "60"
-      },
-      {
-        "productURL": "ProductDetail.html",
-        "imgName": "img_160_4.png",
-        "productTitle": "四重过滤 镁离子净水壶",
-        "productPrice": "160",
-        "originalPrice": "35"
-      },
-      {
-        "productURL": "ProductDetail.html",
-        "imgName": "img_160_5.png",
-        "productTitle": "素颜·收纳壁挂镜",
-        "productPrice": "260",
-        "originalPrice": "55"
       }
     ],
     "channelCat": [
@@ -458,15 +127,6 @@
       },
       {
         "channelCatTitle": "家具"
-      },
-      {
-        "channelCatTitle": "灯具"
-      },
-      {
-        "channelCatTitle": "布艺软装"
-      },
-      {
-        "channelCatTitle": "收纳"
       },
       {
         "channelCatTitle": "家饰"
@@ -484,57 +144,9 @@
             "productTitle": "95%白鹅绒羽绒被 升级款",
             "productPrice": "260",
             "originalPrice": "55"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_7.png",
-            "productTitle": "如肌肤般温暖丝滑，300根水洗棉缎纹枕套*2",
-            "productPrice": "260",
-            "originalPrice": "55"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_8.png",
-            "productTitle": "草本滋养睡好觉，决明子/黄金子草本护颈枕",
-            "productPrice": "260",
-            "originalPrice": "55"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_9.png",
-            "productTitle": "家的高级软萌感，日式蓬软太鼓抱枕",
-            "productPrice": "260",
-            "originalPrice": "55"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_10.png",
-            "productTitle": "科尔玛小镇·印花抱枕套",
-            "productPrice": "260",
-            "originalPrice": "55"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_11.png",
-            "productTitle": "营造高品格客厅 克拉斯克系列装饰画 6件装",
-            "productPrice": "260",
-            "originalPrice": "55"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_12.png",
-            "productTitle": "博因·轻奢玻璃花器",
-            "productPrice": "260",
-            "originalPrice": "55"
-          },
-          {
-            "productURL": "ProductDetail.html",
-            "imgName": "img_160_13.png",
-            "productTitle": "净线条·北欧设计落地灯",
-            "productPrice": "260",
-            "originalPrice": "55"
           }
         ]
       }
     ]
   }
+  
